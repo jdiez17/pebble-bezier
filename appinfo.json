@@ -1,0 +1,17 @@
+{
+  "uuid": "61f726f6-f4b1-40b2-b611-f20682974c97",
+  "shortName": "Bezier",
+  "longName": "Bezier",
+  "companyName": "jdiez",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true 
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
